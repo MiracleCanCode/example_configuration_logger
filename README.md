@@ -1,6 +1,6 @@
 # my configuration zap logger
 
-`go get -u github.com/MiracleCanCode/example_configuration_zap_logger`
+`go get -u github.com/MiracleCanCode/example_configuration_logger`
 
 ## Example usage
 
