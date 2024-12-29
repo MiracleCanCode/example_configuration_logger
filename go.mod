@@ -1,4 +1,4 @@
-module github.com/MiracleCanCode/example_configuration_zap_logger
+module github.com/MiracleCanCode/example_configuration_logger
 
 go 1.23.4
 
